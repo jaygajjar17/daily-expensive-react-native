@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "daily-expense",
+    "slug": "daily-expense",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "edb1106c-975d-4c11-ae40-ffaab1862a50"
+      }
+    }
+  },
+  "name": "daily-expense"
+}
